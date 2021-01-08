@@ -1,0 +1,10 @@
+com\example\model\AppartementService.class
+com\example\model\HoteRepository.class
+com\example\model\HoteService.class
+com\example\model\VoyageurRepository.class
+com\example\model\VoyageurService.class
+com\example\model\Appartement.class
+com\example\model\AppartementRepository.class
+com\example\model\Voyageur.class
+com\example\model\Application.class
+com\example\model\Hote.class
